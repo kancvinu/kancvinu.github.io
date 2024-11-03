@@ -1,0 +1,22 @@
+{
+  "name": "vkanchar Visualizations",
+  "version": "1.0.0",
+  "description": "This repository contains open-source code for [Data Studio Community Visualizations](https://developers.google.com/datastudio/visualization).",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write \"**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kancvinu/looker_vis_1.git"
+  },
+  "author": "Vinod Kancharana",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kancvinu/looker_vis_1/issues"
+  },
+  "homepage": "https://github.com/kancvinu/looker_vis_1#readme",
+  "dependencies": {
+    "prettier": "^1.14.3"
+  }
+}
