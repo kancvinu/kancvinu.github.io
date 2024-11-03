@@ -1,0 +1,17 @@
+{
+  "name": "Custom Chart",
+  "description": "A sample custom chart for Looker Studio",
+  "components": {
+    "data": {
+      "type": "table"
+    },
+    "style": {
+      "default": {
+        "cssFile": "style.css"
+      }
+    },
+    "script": {
+      "path": "index.js"
+    }
+  }
+}
